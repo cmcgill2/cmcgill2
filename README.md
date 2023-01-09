@@ -1,3 +1,5 @@
+![cmcgill](https://user-images.githubusercontent.com/20909784/211323501-25b06524-49c9-4a5b-bc7c-52c668d922b8.png)
+
 ### Hi there 👋
 
 > “First, solve the problem. Then, write the code.” – John Johnson
