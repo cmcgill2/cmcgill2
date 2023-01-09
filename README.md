@@ -10,6 +10,4 @@ Some of my favorite languages:
 Typescript, Golang, Rust
 
 Some problems I've worked on:
-- Media: video streaming, livestream, global content delivery
-- Property Management: billing, maintenance tracking, request in-home services
-- Finance: mortgage
+video streaming, property management, billing, infrastructure, mortgage (rate locking)
