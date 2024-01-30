@@ -5,7 +5,7 @@ I love diving into novel problems, optimizing existing solutions, and on occasio
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 Some of my favorite languages:
-Golang, Typescript, rust
+Golang, Typescript, Python
 
 Some problems I've worked on:
 programmatic trading, infrastructure, video streaming, property management, billing, mortgage (rate locking)
